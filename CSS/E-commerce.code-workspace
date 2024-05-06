@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../../xampp/htdocs/projects/exercicePHP"
+	},
+	{
+		"path": "../../memory-Game"
+	}
+],
+  "settings": {}
+}
